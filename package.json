@@ -1,0 +1,23 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "This is a collection algorithm and data structure implementations in JS. Some of these are problems I had to solve on tech interviews before. Good luck ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timhysniu/js-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timhysniu/js-exercises/issues"
+  },
+  "homepage": "https://github.com/timhysniu/js-exercises#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
